@@ -1,0 +1,11 @@
+# Build
+target/
+# IDE
+.idea/
+*.iml
+# SO
+.DS_Store
+Thumbs.db
+# Reportes locales
+surefire-reports/
+failsafe-reports/
